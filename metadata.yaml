@@ -1,5 +1,8 @@
 _repo: The-Pampas-and-Andes-A-Thousand-Miles-Walk-Across-South-America_69091
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69091-h/images/cover.jpg
 creator:
   author:
     agent_name: Bishop, Nathaniel H. (Nathaniel Holmes)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '532'
     url: http://www.gutenberg.org/2009/agents/532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69091#The-Pampas-and-Andes-A-Thousand-Miles-Walk-Across-South-America
 gutenberg_issued: '2022-10-03'
 identifiers:
   gutenberg: '69091'
